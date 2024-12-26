@@ -1,6 +1,3 @@
-Great! To create a proper README file for your **Secure Notes** project using the MERN stack and AES algorithm, I'll provide a detailed template. You can adapt it as needed. Here's the structure:
-
----
 
 ### **README.md**
 
